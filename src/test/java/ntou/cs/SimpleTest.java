@@ -27,3 +27,5 @@ public class SimpleTest {
 		assertEquals(calc.div(8, 2), 4);
 	}
 }
+
+//8/2=4
